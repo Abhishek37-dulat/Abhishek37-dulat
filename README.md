@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts   
 
-<img alt="GIF" src="https://github.com/Abhishek37-dulat/Abhishek37-dulat/blob/master/hadder.gif?raw=true" width="500"/>  
+<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 
 ### Languages and Tools  
 

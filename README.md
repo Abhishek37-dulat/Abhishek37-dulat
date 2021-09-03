@@ -60,7 +60,7 @@ I'm a Computer Science Student 😊.
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/abhishek-dulat-a73430192/" target="_blank">
-  <img align="left" alt="Roshan's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Abhishek's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="Abhishek11906997dulat@gmail.com" target="_blank">
   <img align="left" alt="Abhishek's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

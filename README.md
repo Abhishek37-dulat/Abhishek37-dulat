@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts   
 
-<img alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d8aa80d-a00f-4ca5-817d-30fbc6bf33be/d9lkb4q-801752ec-84b4-4a62-8d74-c7fd44091393.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkOGFhODBkLWEwMGYtNGNhNS04MTdkLTMwZmJjNmJmMzNiZVwvZDlsa2I0cS04MDE3NTJlYy04NGI0LTRhNjItOGQ3NC1jN2ZkNDQwOTEzOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aVGFYybHp4W2ED1DoY1dFk9V5t2J3BL6OY8oGVU8S4E" width="500"/>  
+<img alt="GIF" src="shorturl.at/amzEG" width="500"/>  
 
 ### Languages and Tools  
 

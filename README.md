@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts   
 
-<img alt="GIF" src="shorturl.at/amzEG" width="500"/>  
+<img alt="GIF" src="https://github.com/Abhishek37-dulat/Abhishek37-dulat/blob/main/d9lkb4q-801752ec-84b4-4a62-8d74-c7fd44091393.gif" width="500"/>  
 
 ### Languages and Tools  
 

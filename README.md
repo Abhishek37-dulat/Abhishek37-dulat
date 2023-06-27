@@ -38,12 +38,12 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Abhishek37-dulat&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/abhishek11906997dulat/  
- HackerRank     https://www.hackerrank.com/Abhishek11906997/
- HackerEarth    https://www.hackerearth.com/@abhishek11906997dulat/
- CodeForces     https://codeforces.com/profile/dulat3492/
- CodeChef       https://www.codechef.com/users/abhishek37d/
- LeetCode       https://leetcode.com/abhishek11906997dulat/
+ GeeksForGeeks  https://auth.geeksforgeeks.org/user/abhishek11906997dulat/ <br/> 
+ HackerRank     https://www.hackerrank.com/Abhishek11906997/<br/>
+ HackerEarth    https://www.hackerearth.com/@abhishek11906997dulat/<br/>
+ CodeForces     https://codeforces.com/profile/dulat3492/<br/>
+ CodeChef       https://www.codechef.com/users/abhishek37d/<br/>
+ LeetCode       https://leetcode.com/abhishek11906997dulat/<br/>
  
  
 ### YouTube

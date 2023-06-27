@@ -39,7 +39,12 @@ I'm a Computer Science Student 😊.
 
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/abhishek11906997dulat/  
- Hackerrank     https://www.hackerrank.com/Abhishek11906997
+ HackerRank     https://www.hackerrank.com/Abhishek11906997
+ HackerEarth    https://www.hackerearth.com/@abhishek11906997dulat
+ CodeForces     https://codeforces.com/profile/dulat3492
+ CodeChef       https://www.codechef.com/users/abhishek37d
+ LeetCode       https://leetcode.com/abhishek11906997dulat/
+ 
  
 ### YouTube
  https://www.youtube.com/channel/UCq-EKQGclzwL7MJUC7Z6tiA  

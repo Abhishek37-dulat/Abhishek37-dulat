@@ -3,9 +3,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek37-dulat.visitor-badge)
 <a href="https://github.com/Abhishek37-dulat"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Abhishek37-dulat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
-I'm a Computer Science Student 😊.  
-💻 Worked on many different technologies.  
-📜 Created many useful Python Scripts   
+I'm a Computer Science Student.  
 
 <!-- <img alt="GIF" src="https://github.com/Abhishek37-dulat/Abhishek37-dulat/blob/main/d9lkb4q-801752ec-84b4-4a62-8d74-c7fd44091393.gif" width="500"/>   -->
 

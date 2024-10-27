@@ -20,7 +20,7 @@ I'm a Computer Science Student.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code>
-<code><img height="30" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F355038%2Fgolang&psig=AOvVaw02nz_PSRceUdJNddBM1WIF&ust=1730117579591000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjsxrHErokDFQAAAAAdAAAAABAE](https://drive.google.com/file/d/1vB1s-4aSfBM_6EWoL3i3gw3So6B8ClPs/view?usp=sharing)"/></code>
+<code><img height="30" src="https://go.dev/images/go-logo-white.svg"/></code>
 
 ### Interests
 👍 Web Development  
